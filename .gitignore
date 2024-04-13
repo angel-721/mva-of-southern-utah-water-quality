@@ -154,6 +154,7 @@ cython_debug/
 
 *.csv
 *.png
+*.pkl
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
